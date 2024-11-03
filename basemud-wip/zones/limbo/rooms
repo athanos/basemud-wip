@@ -1,0 +1,24 @@
+ID 0
+        MAPID 1
+        NAME Limbo Room One~
+        DESC You are floating in the void.~
+        SECTOR 1
+        FLAGS 1028
+        EXIT
+                DIR N
+                ROOM 1
+        END
+END
+
+ID 1
+        MAPID 2
+        NAME Limbo Room tWO~
+        DESC You are floating in the void STILL.~
+        SECTOR 1
+        FLAGS 1028
+        EXIT
+                DIR S
+                ROOM 0
+        END
+END
+

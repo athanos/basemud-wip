@@ -1,0 +1,23 @@
+^AArcanum^w supports ANSI colors, and you can access them by using the
+'^' character, followed by the colorkey from the table below.
+
+        ^^a - ^adark azure^w                 ^^A - ^Aazure^w
+        ^^b - ^bdark blue^w                  ^^B - ^Bblue^w
+        ^^c - ^cdark cyan^w                  ^^C - ^Ccyan^w
+        ^^e - ^edark ebony^w                 ^^E - ^Eebony^w
+        ^^g - ^gdark green^w                 ^^G - ^Ggreen^w
+        ^^j - ^jdark jade^w                  ^^J - ^Jjade^w
+        ^^l - ^ldark lime^w                  ^^L - ^Llime^w
+        ^^m - ^mdark magenta^w               ^^M - ^Mmagenta^w
+        ^^o - ^odark orange^w                ^^O - ^Oorange^w
+        ^^p - ^pdark pink^w                  ^^P - ^Ppink^w
+        ^^r - ^rdark red^w                   ^^R - ^Rred^w
+        ^^s - ^sdark silver^w                ^^S - ^Ssilver^w
+        ^^t - ^tdark tan^w                   ^^T - ^Ttan^w
+        ^^v - ^vdark violet^w                ^^V - ^Vviolet^w
+        ^^w - ^wdark white^w                 ^^W - ^Wwhite^w
+        ^^y - ^ydark yellow^w                ^^Y - ^Yyellow^w
+
+        ^?^^? - random color
+
+

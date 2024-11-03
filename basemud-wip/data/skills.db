@@ -1,0 +1,2181 @@
+ID 1
+        NAME            Brawling~
+        SK_TYPE         0
+        SUCC_TYPE       0
+        SAVE_STAT       -1
+        BASE_PERCENT    0
+        COST            0
+        PREREQ          0
+END
+
+ID 2
+        NAME            Climbing~
+        SK_TYPE         0
+        SUCC_TYPE       1
+        SAVE_STAT       1
+        BASE_PERCENT    0
+        COST            0
+        PREREQ          0
+END
+
+ID 3
+        NAME            Floating~
+        SK_TYPE         0
+        SUCC_TYPE       1
+        SAVE_STAT       1
+        BASE_PERCENT    0
+        COST            0
+        PREREQ          0
+END
+
+ID 4
+        NAME            Hiding~
+        SK_TYPE         0
+        SUCC_TYPE       0
+        SAVE_STAT       -1
+        BASE_PERCENT    0
+        COST            0
+        PREREQ          0
+END
+
+ID 5
+        NAME            Leaping~
+        SK_TYPE         0
+        SUCC_TYPE       1
+        SAVE_STAT       1
+        BASE_PERCENT    0
+        COST            0
+        PREREQ          0
+END
+
+ID 6
+        NAME            Move Silently~
+        SK_TYPE         0
+        SUCC_TYPE       1
+        SAVE_STAT       1
+        BASE_PERCENT    0
+        COST            0
+        PREREQ          0
+END
+
+ID 7
+        NAME            Searching~
+        SK_TYPE         0
+        SUCC_TYPE       1
+        SAVE_STAT       5
+        BASE_PERCENT    0
+        COST            0
+        PREREQ          0
+END
+
+ID 8
+        NAME            Analyze Mixtures~
+        SK_TYPE         1
+        SUCC_TYPE       2
+        SAVE_STAT       -1
+        BASE_PERCENT    50
+        COST            2000
+        PREREQ          0
+END
+
+ID 9
+        NAME            Ancient Lore~
+        SK_TYPE         1
+        SUCC_TYPE       1
+        SAVE_STAT       4
+        BASE_PERCENT    0
+        COST            2000
+        PREREQ          0
+END
+
+ID 10
+        NAME            Art~
+        SK_TYPE         1
+        SUCC_TYPE       0
+        SAVE_STAT       -1
+        BASE_PERCENT    0
+        COST            2000
+        PREREQ          0
+END
+
+ID 11
+        NAME            Cartography~
+        SK_TYPE         1
+        SUCC_TYPE       0
+        SAVE_STAT       -1
+        BASE_PERCENT    0
+        COST            2000
+        PREREQ          0
+END
+
+ID 12
+        NAME            Chirography~
+        SK_TYPE         1
+        SUCC_TYPE       0
+        SAVE_STAT       -1
+        BASE_PERCENT    0
+        COST            2000
+        PREREQ          0
+END
+
+ID 13
+        NAME            Diplomacy~
+        SK_TYPE         1
+        SUCC_TYPE       0
+        SAVE_STAT       -1
+        BASE_PERCENT    0
+        COST            2000
+        PREREQ          0
+END
+
+ID 14
+        NAME            Drafting~
+        SK_TYPE         1
+        SUCC_TYPE       1
+        SAVE_STAT       4
+        BASE_PERCENT    0
+        COST            2000
+        PREREQ          0
+END
+
+ID 15
+        NAME            Healing Arts~
+        SK_TYPE         1
+        SUCC_TYPE       1
+        SAVE_STAT       4
+        BASE_PERCENT    0
+        COST            2000
+        PREREQ          0
+END
+
+ID 16
+        NAME            Horticulture~
+        SK_TYPE         1
+        SUCC_TYPE       2
+        SAVE_STAT       -1
+        BASE_PERCENT    75
+        COST            2000
+        PREREQ          0
+END
+
+ID 17
+        NAME            Internal Alchemy~
+        SK_TYPE         1
+        SUCC_TYPE       0
+        SAVE_STAT       -1
+        BASE_PERCENT    0
+        COST            2000
+        PREREQ          184
+END
+
+ID 18
+        NAME            Inventing~
+        SK_TYPE         1
+        SUCC_TYPE       2
+        SAVE_STAT       -1
+        BASE_PERCENT    35
+        COST            2000
+        PREREQ          14
+END
+
+ID 19
+        NAME            Linquistics~
+        SK_TYPE         1
+        SUCC_TYPE       1
+        SAVE_STAT       4
+        BASE_PERCENT    0
+        COST            2000
+        PREREQ          0
+END
+
+ID 20
+        NAME            Music~
+        SK_TYPE         1
+        SUCC_TYPE       0
+        SAVE_STAT       -1
+        BASE_PERCENT    0
+        COST            2000
+        PREREQ          0
+END
+
+ID 21
+        NAME            Naturalism~
+        SK_TYPE         1
+        SUCC_TYPE       1
+        SAVE_STAT       4
+        BASE_PERCENT    0
+        COST            2000
+        PREREQ          0
+END
+
+ID 22
+        NAME            Navigation~
+        SK_TYPE         1
+        SUCC_TYPE       0
+        SAVE_STAT       -1
+        BASE_PERCENT    0
+        COST            2000
+        PREREQ          0
+END
+
+ID 23
+        NAME            Read Magic~
+        SK_TYPE         1
+        SUCC_TYPE       2
+        SAVE_STAT       -1
+        BASE_PERCENT    50
+        COST            2000
+        PREREQ          0
+END
+
+ID 24
+        NAME            Theology~
+        SK_TYPE         1
+        SUCC_TYPE       1
+        SAVE_STAT       4
+        BASE_PERCENT    0
+        COST            2000
+        PREREQ          0
+END
+
+ID 25
+        NAME            Barter~
+        SK_TYPE         2
+        SUCC_TYPE       1
+        SAVE_STAT       6
+        BASE_PERCENT    0
+        COST            100
+        PREREQ          0
+END
+
+ID 26
+        NAME            Basic Seamanship~
+        SK_TYPE         2
+        SUCC_TYPE       0
+        SAVE_STAT       -1
+        BASE_PERCENT    0
+        COST            200
+        PREREQ          0
+END
+
+ID 27
+        NAME            Craft: Brewing~
+        SK_TYPE         2
+        SUCC_TYPE       0
+        SAVE_STAT       -1
+        BASE_PERCENT    0
+        COST            200
+        PREREQ          0
+END
+
+ID 28
+        NAME            Craft: Cooking~
+        SK_TYPE         2
+        SUCC_TYPE       0
+        SAVE_STAT       -1
+        BASE_PERCENT    0
+        COST            200
+        PREREQ          0
+END
+
+ID 29
+        NAME            Craft: Leather Wroking~
+        SK_TYPE         2
+        SUCC_TYPE       0
+        SAVE_STAT       -1
+        BASE_PERCENT    0
+        COST            200
+        PREREQ          0
+END
+
+ID 30
+        NAME            Craft: Wood Working~
+        SK_TYPE         2
+        SUCC_TYPE       0
+        SAVE_STAT       -1
+        BASE_PERCENT    0
+        COST            200
+        PREREQ          0
+END
+
+ID 31
+        NAME            Craft: Armor Smithing~
+        SK_TYPE         2
+        SUCC_TYPE       0
+        SAVE_STAT       -1
+        BASE_PERCENT    0
+        COST            200
+        PREREQ          0
+END
+
+ID 32
+        NAME            Craft: Weapon Smithing~
+        SK_TYPE         2
+        SUCC_TYPE       0
+        SAVE_STAT       -1
+        BASE_PERCENT    0
+        COST            200
+        PREREQ          0
+END
+
+ID 33
+        NAME            Craft: Gardening~
+        SK_TYPE         2
+        SUCC_TYPE       0
+        SAVE_STAT       -1
+        BASE_PERCENT    0
+        COST            200
+        PREREQ          0
+END
+
+ID 34
+        NAME            Craft: Masonry~
+        SK_TYPE         2
+        SUCC_TYPE       0
+        SAVE_STAT       -1
+        BASE_PERCENT    0
+        COST            200
+        PREREQ          0
+END
+
+ID 35
+        NAME            Knowledge: General Lore~
+        SK_TYPE         2
+        SUCC_TYPE       0
+        SAVE_STAT       -1
+        BASE_PERCENT    0
+        COST            200
+        PREREQ          0
+END
+
+ID 36
+        NAME            Knowledge: Nature~
+        SK_TYPE         2
+        SUCC_TYPE       0
+        SAVE_STAT       -1
+        BASE_PERCENT    0
+        COST            200
+        PREREQ          0
+END
+
+ID 37
+        NAME            Knowledge: Religious Lore~
+        SK_TYPE         2
+        SUCC_TYPE       0
+        SAVE_STAT       -1
+        BASE_PERCENT    0
+        COST            200
+        PREREQ          0
+END
+
+ID 38
+        NAME            Knowledge: Arcane Lore~
+        SK_TYPE         2
+        SUCC_TYPE       0
+        SAVE_STAT       -1
+        BASE_PERCENT    0
+        COST            200
+        PREREQ          0
+END
+
+ID 39
+        NAME            Knowledge: Demon Lore~
+        SK_TYPE         2
+        SUCC_TYPE       0
+        SAVE_STAT       -1
+        BASE_PERCENT    0
+        COST            200
+        PREREQ          0
+END
+
+ID 40
+        NAME            Knowledge: Geography~
+        SK_TYPE         2
+        SUCC_TYPE       0
+        SAVE_STAT       -1
+        BASE_PERCENT    0
+        COST            200
+        PREREQ          0
+END
+
+ID 41
+        NAME            Knowledge: History~
+        SK_TYPE         2
+        SUCC_TYPE       0
+        SAVE_STAT       -1
+        BASE_PERCENT    0
+        COST            200
+        PREREQ          0
+END
+
+ID 42
+        NAME            Knowledge: Divine Lore~
+        SK_TYPE         2
+        SUCC_TYPE       0
+        SAVE_STAT       -1
+        BASE_PERCENT    0
+        COST            200
+        PREREQ          0
+END
+
+ID 43
+        NAME            Drinking~
+        SK_TYPE         2
+        SUCC_TYPE       1
+        SAVE_STAT       3
+        BASE_PERCENT    0
+        COST            100
+        PREREQ          0
+END
+
+ID 44
+        NAME            Gambling~
+        SK_TYPE         2
+        SUCC_TYPE       1
+        SAVE_STAT       4
+        BASE_PERCENT    0
+        COST            50
+        PREREQ          0
+END
+
+ID 45
+        NAME            Haggling~
+        SK_TYPE         2
+        SUCC_TYPE       1
+        SAVE_STAT       7
+        BASE_PERCENT    0
+        COST            100
+        PREREQ          0
+END
+
+ID 46
+        NAME            Language: Centaur~
+        SK_TYPE         2
+        SUCC_TYPE       0
+        SAVE_STAT       -1
+        BASE_PERCENT    0
+        COST            500
+        PREREQ          0
+END
+
+ID 47
+        NAME            Language: Common~
+        SK_TYPE         2
+        SUCC_TYPE       0
+        SAVE_STAT       -1
+        BASE_PERCENT    0
+        COST            0
+        PREREQ          0
+END
+
+ID 48
+        NAME            Language: Druas~
+        SK_TYPE         2
+        SUCC_TYPE       0
+        SAVE_STAT       -1
+        BASE_PERCENT    0
+        COST            500
+        PREREQ          0
+END
+
+ID 49
+        NAME            Language: Dwarf~
+        SK_TYPE         2
+        SUCC_TYPE       0
+        SAVE_STAT       -1
+        BASE_PERCENT    0
+        COST            500
+        PREREQ          0
+END
+
+ID 50
+        NAME            Language: Elf~
+        SK_TYPE         2
+        SUCC_TYPE       0
+        SAVE_STAT       -1
+        BASE_PERCENT    0
+        COST            500
+        PREREQ          0
+END
+
+ID 51
+        NAME            Language: Ferran~
+        SK_TYPE         2
+        SUCC_TYPE       0
+        SAVE_STAT       -1
+        BASE_PERCENT    0
+        COST            500
+        PREREQ          0
+END
+
+ID 52
+        NAME            Language: Gnome~
+        SK_TYPE         2
+        SUCC_TYPE       0
+        SAVE_STAT       -1
+        BASE_PERCENT    0
+        COST            500
+        PREREQ          0
+END
+
+ID 53
+        NAME            Language: Human~
+        SK_TYPE         2
+        SUCC_TYPE       0
+        SAVE_STAT       -1
+        BASE_PERCENT    0
+        COST            500
+        PREREQ          0
+END
+
+ID 54
+        NAME            Language: Kobold~
+        SK_TYPE         2
+        SUCC_TYPE       0
+        SAVE_STAT       -1
+        BASE_PERCENT    0
+        COST            500
+        PREREQ          0
+END
+
+ID 55
+        NAME            Language: Ogre~
+        SK_TYPE         2
+        SUCC_TYPE       0
+        SAVE_STAT       -1
+        BASE_PERCENT    0
+        COST            500
+        PREREQ          0
+END
+
+ID 56
+        NAME            Language: Orc~
+        SK_TYPE         2
+        SUCC_TYPE       0
+        SAVE_STAT       -1
+        BASE_PERCENT    0
+        COST            500
+        PREREQ          0
+END
+
+ID 57
+        NAME            Language: Rakashan~
+        SK_TYPE         2
+        SUCC_TYPE       0
+        SAVE_STAT       -1
+        BASE_PERCENT    0
+        COST            500
+        PREREQ          0
+END
+
+ID 58
+        NAME            Language: Saurian~
+        SK_TYPE         2
+        SUCC_TYPE       0
+        SAVE_STAT       -1
+        BASE_PERCENT    0
+        COST            500
+        PREREQ          0
+END
+
+ID 59
+        NAME            Language: Wolfen~
+        SK_TYPE         2
+        SUCC_TYPE       0
+        SAVE_STAT       -1
+        BASE_PERCENT    0
+        COST            500
+        PREREQ          0
+END
+
+ID 60
+        NAME            Literacy: Centaur~
+        SK_TYPE         2
+        SUCC_TYPE       0
+        SAVE_STAT       -1
+        BASE_PERCENT    0
+        COST            500
+        PREREQ          0
+END
+
+ID 61
+        NAME            Literacy: Common~
+        SK_TYPE         2
+        SUCC_TYPE       0
+        SAVE_STAT       -1
+        BASE_PERCENT    0
+        COST            0
+        PREREQ          0
+END
+
+ID 62
+        NAME            Literacy: Druas~
+        SK_TYPE         2
+        SUCC_TYPE       0
+        SAVE_STAT       -1
+        BASE_PERCENT    0
+        COST            500
+        PREREQ          0
+END
+
+ID 63
+        NAME            Literacy: Dwarf~
+        SK_TYPE         2
+        SUCC_TYPE       0
+        SAVE_STAT       -1
+        BASE_PERCENT    0
+        COST            500
+        PREREQ          0
+END
+
+ID 64
+        NAME            Literacy: Elf~
+        SK_TYPE         2
+        SUCC_TYPE       0
+        SAVE_STAT       -1
+        BASE_PERCENT    0
+        COST            500
+        PREREQ          0
+END
+
+ID 65
+        NAME            Literacy: Ferran~
+        SK_TYPE         2
+        SUCC_TYPE       0
+        SAVE_STAT       -1
+        BASE_PERCENT    0
+        COST            500
+        PREREQ          0
+END
+
+ID 66
+        NAME            Literacy: Gnome~
+        SK_TYPE         2
+        SUCC_TYPE       0
+        SAVE_STAT       -1
+        BASE_PERCENT    0
+        COST            500
+        PREREQ          0
+END
+
+ID 67
+        NAME            Literacy: Human~
+        SK_TYPE         2
+        SUCC_TYPE       0
+        SAVE_STAT       -1
+        BASE_PERCENT    0
+        COST            500
+        PREREQ          0
+END
+
+ID 68
+        NAME            Literacy: Kobold~
+        SK_TYPE         2
+        SUCC_TYPE       0
+        SAVE_STAT       -1
+        BASE_PERCENT    0
+        COST            500
+        PREREQ          0
+END
+
+ID 69
+        NAME            Literacy: Ogre~
+        SK_TYPE         2
+        SUCC_TYPE       0
+        SAVE_STAT       -1
+        BASE_PERCENT    0
+        COST            500
+        PREREQ          0
+END
+
+ID 70
+        NAME            Literacy: Orc~
+        SK_TYPE         2
+        SUCC_TYPE       0
+        SAVE_STAT       -1
+        BASE_PERCENT    0
+        COST            500
+        PREREQ          0
+END
+
+ID 71
+        NAME            Literacy: Rakashan~
+        SK_TYPE         2
+        SUCC_TYPE       0
+        SAVE_STAT       -1
+        BASE_PERCENT    0
+        COST            500
+        PREREQ          0
+END
+
+ID 71
+        NAME            Literacy: Saurian~
+        SK_TYPE         2
+        SUCC_TYPE       0
+        SAVE_STAT       -1
+        BASE_PERCENT    0
+        COST            500
+        PREREQ          0
+END
+
+ID 72
+        NAME            Literacy: Wolfen~
+        SK_TYPE         2
+        SUCC_TYPE       0
+        SAVE_STAT       -1
+        BASE_PERCENT    0
+        COST            500
+        PREREQ          0
+END
+
+ID 73
+        NAME            Riding~
+        SK_TYPE         2
+        SUCC_TYPE       0
+        SAVE_STAT       -1
+        BASE_PERCENT    0
+        COST            100
+        PREREQ          0
+END
+
+ID 74
+        NAME            Sign~
+        SK_TYPE         2
+        SUCC_TYPE       0
+        SAVE_STAT       -1
+        BASE_PERCENT    0
+        COST            250
+        PREREQ          0
+END
+
+ID 75
+        NAME            Streetwise~
+        SK_TYPE         2
+        SUCC_TYPE       0
+        SAVE_STAT       -1
+        BASE_PERCENT    0
+        COST            500
+        PREREQ          0
+END
+
+ID 76
+        NAME            Swimming~
+        SK_TYPE         2
+        SUCC_TYPE       0
+        SAVE_STAT       -1
+        BASE_PERCENT    0
+        COST            50
+        PREREQ          0
+END
+
+ID 77
+        NAME            Archery I~
+        SK_TYPE         3
+        SUCC_TYPE       0
+        SAVE_STAT       -1
+        BASE_PERCENT    0
+        COST            1000
+        PREREQ          0
+END
+
+ID 78
+        NAME            Archery II~
+        SK_TYPE         3
+        SUCC_TYPE       0
+        SAVE_STAT       -1
+        BASE_PERCENT    0
+        COST            1000
+        PREREQ          77
+END
+
+ID 79
+        NAME            Blind Fighting~
+        SK_TYPE         3
+        SUCC_TYPE       0
+        SAVE_STAT       -1
+        BASE_PERCENT    0
+        COST            1000
+        PREREQ          0
+END
+
+ID 80
+        NAME            Boxing~
+        SK_TYPE         3
+        SUCC_TYPE       0
+        SAVE_STAT       -1
+        BASE_PERCENT    0
+        COST            1000
+        PREREQ          0
+END
+
+ID 81
+        NAME            Command~
+        SK_TYPE         3
+        SUCC_TYPE       0
+        SAVE_STAT       -1
+        BASE_PERCENT    0
+        COST            500
+        PREREQ          0
+END
+
+ID 82
+        NAME            Martial Arts I~
+        SK_TYPE         3
+        SUCC_TYPE       0
+        SAVE_STAT       -1
+        BASE_PERCENT    0
+        COST            2000
+        PREREQ          0
+END
+
+ID 83
+        NAME            Martial Arts II~
+        SK_TYPE         3
+        SUCC_TYPE       0
+        SAVE_STAT       -1
+        BASE_PERCENT    0
+        COST            1000
+        PREREQ          82
+END
+
+ID 84
+        NAME            Mounted Combat I~
+        SK_TYPE         3
+        SUCC_TYPE       0
+        SAVE_STAT       -1
+        BASE_PERCENT    0
+        COST            1000
+        PREREQ          73
+END
+
+ID 85
+        NAME            Mounted Combat II~
+        SK_TYPE         3
+        SUCC_TYPE       0
+        SAVE_STAT       -1
+        BASE_PERCENT    0
+        COST            1000
+        PREREQ          84
+END
+
+ID 86
+        NAME            Street Fighting~
+        SK_TYPE         3
+        SUCC_TYPE       0
+        SAVE_STAT       -1
+        BASE_PERCENT    0
+        COST            500
+        PREREQ          0
+END
+
+ID 87
+        NAME            Weapon Proficiency: Blowgun~
+        SK_TYPE         3
+        SUCC_TYPE       0
+        SAVE_STAT       -1
+        BASE_PERCENT    0
+        COST            1000
+        PREREQ          0
+END
+
+ID 88
+        NAME            Weapon Proficiency: Blunt~
+        SK_TYPE         3
+        SUCC_TYPE       0
+        SAVE_STAT       -1
+        BASE_PERCENT    0
+        COST            1000
+        PREREQ          0
+END
+
+ID 89
+        NAME            Weapon Proficiency: Bow~
+        SK_TYPE         3
+        SUCC_TYPE       0
+        SAVE_STAT       -1
+        BASE_PERCENT    0
+        COST            1000
+        PREREQ          0
+END
+
+ID 90
+        NAME            Weapon Proficiency: Chain~
+        SK_TYPE         3
+        SUCC_TYPE       0
+        SAVE_STAT       -1
+        BASE_PERCENT    0
+        COST            1000
+        PREREQ          0
+END
+
+ID 91
+        NAME            Weapon Proficiency: Dagger and Knife~
+        SK_TYPE         3
+        SUCC_TYPE       0
+        SAVE_STAT       -1
+        BASE_PERCENT    0
+        COST            1000
+        PREREQ          0
+END
+
+ID 92
+        NAME            Weapon Proficiency: Forked and Trident~
+        SK_TYPE         3
+        SUCC_TYPE       0
+        SAVE_STAT       -1
+        BASE_PERCENT    0
+        COST            1000
+        PREREQ          0
+END
+
+ID 93
+        NAME            Weapon Proficiency: Grappling Hook~
+        SK_TYPE         3
+        SUCC_TYPE       0
+        SAVE_STAT       -1
+        BASE_PERCENT    0
+        COST            1000
+        PREREQ          0
+END
+
+ID 94
+        NAME            Weapon Proficiency: Missile Weapons~
+        SK_TYPE         3
+        SUCC_TYPE       0
+        SAVE_STAT       -1
+        BASE_PERCENT    0
+        COST            1000
+        PREREQ          0
+END
+
+ID 95
+        NAME            Weapon Proficiency: Net~
+        SK_TYPE         3
+        SUCC_TYPE       0
+        SAVE_STAT       -1
+        BASE_PERCENT    0
+        COST            1000
+        PREREQ          0
+END
+
+ID 96
+        NAME            Weapon Proficiency: Paied Weapons~
+        SK_TYPE         3
+        SUCC_TYPE       0
+        SAVE_STAT       -1
+        BASE_PERCENT    0
+        COST            1000
+        PREREQ          0
+END
+
+ID 97
+        NAME            Weapon Proficiency: Shield~
+        SK_TYPE         3
+        SUCC_TYPE       0
+        SAVE_STAT       -1
+        BASE_PERCENT    0
+        COST            1000
+        PREREQ          0
+END
+
+ID 98
+        NAME            Weapon Proficiency: Siege Weapons~
+        SK_TYPE         3
+        SUCC_TYPE       0
+        SAVE_STAT       -1
+        BASE_PERCENT    0
+        COST            1000
+        PREREQ          0
+END
+
+ID 99
+        NAME            Weapon Proficiency: Spear~
+        SK_TYPE         3
+        SUCC_TYPE       0
+        SAVE_STAT       -1
+        BASE_PERCENT    0
+        COST            1000
+        PREREQ          0
+END
+
+ID 100
+        NAME            Weapon Proficiency: Staff~
+        SK_TYPE         3
+        SUCC_TYPE       0
+        SAVE_STAT       -1
+        BASE_PERCENT    0
+        COST            1000
+        PREREQ          0
+END
+
+ID 101
+        NAME            Weapon Proficiency: Sword~
+        SK_TYPE         3
+        SUCC_TYPE       0
+        SAVE_STAT       -1
+        BASE_PERCENT    0
+        COST            1000
+        PREREQ          0
+END
+
+ID 102
+        NAME            Weapon Proficiency: Throwing Weapons~
+        SK_TYPE         3
+        SUCC_TYPE       0
+        SAVE_STAT       -1
+        BASE_PERCENT    0
+        COST            1000
+        PREREQ          0
+END
+
+ID 103
+        NAME            Weapon Proficiency: Whip~
+        SK_TYPE         3
+        SUCC_TYPE       0
+        SAVE_STAT       -1
+        BASE_PERCENT    0
+        COST            1000
+        PREREQ          0
+END
+
+ID 104
+        NAME            Weapon Specialization: Blowgun~
+        SK_TYPE         3
+        SUCC_TYPE       0
+        SAVE_STAT       -1
+        BASE_PERCENT    0
+        COST            2000
+        PREREQ          87
+END
+
+ID 105
+        NAME            Weapon Specialization: Blunt~
+        SK_TYPE         3
+        SUCC_TYPE       0
+        SAVE_STAT       -1
+        BASE_PERCENT    0
+        COST            2000
+        PREREQ          88
+END
+
+ID 106
+        NAME            Weapon Specialization: Bow~
+        SK_TYPE         3
+        SUCC_TYPE       0
+        SAVE_STAT       -1
+        BASE_PERCENT    0
+        COST            2000
+        PREREQ          89
+END
+
+ID 107
+        NAME            Weapon Specialization: Chain~
+        SK_TYPE         3
+        SUCC_TYPE       0
+        SAVE_STAT       -1
+        BASE_PERCENT    0
+        COST            2000
+        PREREQ          90
+END
+
+ID 108
+        NAME            Weapon Specialization: Dagger and Knife~
+        SK_TYPE         3
+        SUCC_TYPE       0
+        SAVE_STAT       -1
+        BASE_PERCENT    0
+        COST            2000
+        PREREQ          91
+END
+
+ID 109
+        NAME            Weapon Specialization: Forked and Trident~
+        SK_TYPE         3
+        SUCC_TYPE       0
+        SAVE_STAT       -1
+        BASE_PERCENT    0
+        COST            2000
+        PREREQ          92
+END
+
+ID 110
+        NAME            Weapon Specialization: Grappling Hook~
+        SK_TYPE         3
+        SUCC_TYPE       0
+        SAVE_STAT       -1
+        BASE_PERCENT    0
+        COST            2000
+        PREREQ          93
+END
+
+ID 111
+        NAME            Weapon Specialization: Missile Weapons~
+        SK_TYPE         3
+        SUCC_TYPE       0
+        SAVE_STAT       -1
+        BASE_PERCENT    0
+        COST            2000
+        PREREQ          94
+END
+
+ID 112
+        NAME            Weapon Specialization: Net~
+        SK_TYPE         3
+        SUCC_TYPE       0
+        SAVE_STAT       -1
+        BASE_PERCENT    0
+        COST            2000
+        PREREQ          95
+END
+
+ID 113
+        NAME            Weapon Specialization: Paired Weapons~
+        SK_TYPE         3
+        SUCC_TYPE       0
+        SAVE_STAT       -1
+        BASE_PERCENT    0
+        COST            2000
+        PREREQ          96
+END
+
+ID 114
+        NAME            Weapon Specialization: Shield~
+        SK_TYPE         3
+        SUCC_TYPE       0
+        SAVE_STAT       -1
+        BASE_PERCENT    0
+        COST            2000
+        PREREQ          97
+END
+
+ID 115
+        NAME            Weapon Specialization: Siege Weapons~
+        SK_TYPE         3
+        SUCC_TYPE       0
+        SAVE_STAT       -1
+        BASE_PERCENT    0
+        COST            2000
+        PREREQ          98
+END
+
+ID 116
+        NAME            Weapon Specialization: Spear~
+        SK_TYPE         3
+        SUCC_TYPE       0
+        SAVE_STAT       -1
+        BASE_PERCENT    0
+        COST            2000
+        PREREQ          99
+END
+
+ID 117
+        NAME            Weapon Specialization: Staff~
+        SK_TYPE         3
+        SUCC_TYPE       0
+        SAVE_STAT       -1
+        BASE_PERCENT    0
+        COST            2000
+        PREREQ          100
+END
+
+ID 118
+        NAME            Weapon Specialization: Sword~
+        SK_TYPE         3
+        SUCC_TYPE       0
+        SAVE_STAT       -1
+        BASE_PERCENT    0
+        COST            2000
+        PREREQ          101
+END
+
+ID 119
+        NAME            Weapon Specialization: Throwing Weapons~
+        SK_TYPE         3
+        SUCC_TYPE       0
+        SAVE_STAT       -1
+        BASE_PERCENT    0
+        COST            2000
+        PREREQ          102
+END
+
+ID 120
+        NAME            Weapon Specialization: Whip~
+        SK_TYPE         3
+        SUCC_TYPE       0
+        SAVE_STAT       -1
+        BASE_PERCENT    0
+        COST            2000
+        PREREQ          103
+END
+
+ID 121
+        NAME            Wrestling~
+        SK_TYPE         3
+        SUCC_TYPE       0
+        SAVE_STAT       -1
+        BASE_PERCENT    0
+        COST            2000
+        PREREQ          0
+END
+
+ID 122
+        NAME            Zen Archery~
+        SK_TYPE         3
+        SUCC_TYPE       0
+        SAVE_STAT       -1
+        BASE_PERCENT    0
+        COST            2000
+        PREREQ          78
+END
+
+ID 123
+        NAME            Acrobatics I~
+        SK_TYPE         4
+        SUCC_TYPE       3
+        SAVE_STAT       -1
+        BASE_PERCENT    95
+        COST            2000
+        PREREQ          0
+END
+
+ID 124
+        NAME            Acrobatics II~
+        SK_TYPE         4
+        SUCC_TYPE       3
+        SAVE_STAT       -1
+        BASE_PERCENT    95
+        COST            2000
+        PREREQ          123
+END
+
+ID 125
+        NAME            Acting~
+        SK_TYPE         4
+        SUCC_TYPE       3
+        SAVE_STAT       -1
+        BASE_PERCENT    85
+        COST            1000
+        PREREQ          0
+END
+
+ID 126
+        NAME            Animal Training~
+        SK_TYPE         4
+        SUCC_TYPE       3
+        SAVE_STAT       -1
+        BASE_PERCENT    95
+        COST            1000
+        PREREQ          0
+END
+
+ID 127
+        NAME            Juggling~
+        SK_TYPE         4
+        SUCC_TYPE       3
+        SAVE_STAT       -1
+        BASE_PERCENT    95
+        COST            1000
+        PREREQ          0
+END
+
+ID 128
+        NAME            Knife Throwing~
+        SK_TYPE         4
+        SUCC_TYPE       0
+        SAVE_STAT       -1
+        BASE_PERCENT    0
+        COST            1000
+        PREREQ          0
+END
+
+ID 129
+        NAME            Legerdemain~
+        SK_TYPE         4
+        SUCC_TYPE       3
+        SAVE_STAT       -1
+        BASE_PERCENT    90
+        COST            1000
+        PREREQ          0
+END
+
+ID 130
+        NAME            Oratory~
+        SK_TYPE         4
+        SUCC_TYPE       3
+        SAVE_STAT       -1
+        BASE_PERCENT    45
+        COST            1000
+        PREREQ          0
+END
+
+ID 131
+        NAME            Side Show Talents~
+        SK_TYPE         4
+        SUCC_TYPE       0
+        SAVE_STAT       -1
+        BASE_PERCENT    0
+        COST            1000
+        PREREQ          0
+END
+
+ID 132
+        NAME            Advanced Alchemical Equipment~
+        SK_TYPE         5
+        SUCC_TYPE       3
+        SAVE_STAT       -1
+        BASE_PERCENT    95
+        COST            2000
+        PREREQ          136
+END
+
+ID 133
+        NAME            Advanced Alchemical Substances~
+        SK_TYPE         5
+        SUCC_TYPE       3
+        SAVE_STAT       -1
+        BASE_PERCENT    85
+        COST            2000
+        PREREQ          132
+END
+
+ID 134
+        NAME            Advanced Necromantic Rituals~
+        SK_TYPE         5
+        SUCC_TYPE       0
+        SAVE_STAT       -1
+        BASE_PERCENT    0
+        COST            2000
+        PREREQ          163
+END
+
+ID 135
+        NAME            Advanced Thaumaturgical Equipment~
+        SK_TYPE         5
+        SUCC_TYPE       3
+        SAVE_STAT       -1
+        BASE_PERCENT    85
+        COST            2000
+        PREREQ          156
+END
+
+ID 136
+        NAME            Alchemical Devices~
+        SK_TYPE         5
+        SUCC_TYPE       3
+        SAVE_STAT       -1
+        BASE_PERCENT    75
+        COST            2000
+        PREREQ          0
+END
+
+ID 137
+        NAME            Alchemical Dusts~
+        SK_TYPE         5
+        SUCC_TYPE       3
+        SAVE_STAT       -1
+        BASE_PERCENT    76
+        COST            2000
+        PREREQ          136
+END
+
+ID 138
+        NAME            Aqua Vitae and Homunculi~
+        SK_TYPE         5
+        SUCC_TYPE       3
+        SAVE_STAT       -1
+        BASE_PERCENT    25
+        COST            2000
+        PREREQ          132
+END
+
+ID 139
+        NAME            Armored Spell Casting~
+        SK_TYPE         5
+        SUCC_TYPE       0
+        SAVE_STAT       -1
+        BASE_PERCENT    0
+        COST            2000
+        PREREQ          0
+END
+
+ID 140
+        NAME            Artist~
+        SK_TYPE         5
+        SUCC_TYPE       0
+        SAVE_STAT       -1
+        BASE_PERCENT    0
+        COST            1000
+        PREREQ          0
+END
+
+ID 141
+        NAME            Assassinate~
+        SK_TYPE         5
+        SUCC_TYPE       2
+        SAVE_STAT       3
+        BASE_PERCENT    0
+        COST            2000
+        PREREQ          0
+END
+
+ID 142
+        NAME            Backstab~
+        SK_TYPE         5
+        SUCC_TYPE       2
+        SAVE_STAT       5
+        BASE_PERCENT    0
+        COST            2000
+        PREREQ          0
+END
+
+ID 143
+        NAME            Convert~
+        SK_TYPE         5
+        SUCC_TYPE       1
+        SAVE_STAT       7
+        BASE_PERCENT    0
+        COST            2000
+        PREREQ          0
+END
+
+ID 144
+        NAME            Detect Conjuration~
+        SK_TYPE         5
+        SUCC_TYPE       2
+        SAVE_STAT       5
+        BASE_PERCENT    0
+        COST            2000
+        PREREQ          0
+END
+
+ID 145
+        NAME            Detect Illusion~
+        SK_TYPE         5
+        SUCC_TYPE       2
+        SAVE_STAT       5
+        BASE_PERCENT    0
+        COST            2000
+        PREREQ          0
+END
+
+ID 146
+        NAME            Essenses~
+        SK_TYPE         5
+        SUCC_TYPE       2
+        SAVE_STAT       6
+        BASE_PERCENT    0
+        COST            2000
+        PREREQ          135
+END
+
+ID 147
+        NAME            Evoker~
+        SK_TYPE         5
+        SUCC_TYPE       2
+        SAVE_STAT       6
+        BASE_PERCENT    0
+        COST            2000
+        PREREQ          39
+END
+
+ID 148
+        NAME            Golems~
+        SK_TYPE         5
+        SUCC_TYPE       3
+        SAVE_STAT       -1
+        BASE_PERCENT    30
+        COST            2000
+        PREREQ          0
+END
+
+ID 149
+        NAME            Greater Magic Items~
+        SK_TYPE         5
+        SUCC_TYPE       3
+        SAVE_STAT       -1
+        BASE_PERCENT    30
+        COST            2000
+        PREREQ          161
+END
+
+ID 150
+        NAME            Herbal Elixers~
+        SK_TYPE         5
+        SUCC_TYPE       3
+        SAVE_STAT       -1
+        BASE_PERCENT    30
+        COST            2000
+        PREREQ          151
+END
+
+ID 151
+        NAME            Herbal Remedies~
+        SK_TYPE         5
+        SUCC_TYPE       3
+        SAVE_STAT       -1
+        BASE_PERCENT    30
+        COST            2000
+        PREREQ          136
+END
+
+ID 152
+        NAME            Holy Items~
+        SK_TYPE         5
+        SUCC_TYPE       3
+        SAVE_STAT       -1
+        BASE_PERCENT    30
+        COST            2000
+        PREREQ          179
+END
+
+ID 153
+        NAME            Influence Animals~
+        SK_TYPE         5
+        SUCC_TYPE       0
+        SAVE_STAT       -1
+        BASE_PERCENT    0
+        COST            2000
+        PREREQ          0
+END
+
+ID 154
+        NAME            Inscribe Symbol~
+        SK_TYPE         5
+        SUCC_TYPE       3
+        SAVE_STAT       -1
+        BASE_PERCENT    75
+        COST            2000
+        PREREQ          0
+END
+
+ID 155
+        NAME            Jack of All Trades~
+        SK_TYPE         5
+        SUCC_TYPE       0
+        SAVE_STAT       -1
+        BASE_PERCENT    0
+        COST            2000
+        PREREQ          0
+END
+
+ID 156
+        NAME            Locate Rare Earths~
+        SK_TYPE         5
+        SUCC_TYPE       0
+        SAVE_STAT       -1
+        BASE_PERCENT    0
+        COST            2000
+        PREREQ          0
+END
+
+ID 157
+        NAME            Machina~
+        SK_TYPE         5
+        SUCC_TYPE       3
+        SAVE_STAT       -1
+        BASE_PERCENT    35
+        COST            2000
+        PREREQ          0
+END
+
+ID 158
+        NAME            Magical Mixtures~
+        SK_TYPE         5
+        SUCC_TYPE       3
+        SAVE_STAT       -1
+        BASE_PERCENT    35
+        COST            2000
+        PREREQ          136
+END
+
+ID 159
+        NAME            Magical Weapons and Armor~
+        SK_TYPE         5
+        SUCC_TYPE       3
+        SAVE_STAT       -1
+        BASE_PERCENT    35
+        COST            2000
+        PREREQ          149
+END
+
+ID 160
+        NAME            Many Masks~
+        SK_TYPE         5
+        SUCC_TYPE       0
+        SAVE_STAT       -1
+        BASE_PERCENT    0
+        COST            2000
+        PREREQ          0
+END
+
+ID 161
+        NAME            Minor Magic Items~
+        SK_TYPE         5
+        SUCC_TYPE       3
+        SAVE_STAT       -1
+        BASE_PERCENT    40
+        COST            2000
+        PREREQ          181
+END
+
+ID 162
+        NAME            Musician~
+        SK_TYPE         5
+        SUCC_TYPE       3
+        SAVE_STAT       -1
+        BASE_PERCENT    95
+        COST            2000
+        PREREQ          0
+END
+
+ID 163
+        NAME            Necromantic Rituals~
+        SK_TYPE         5
+        SUCC_TYPE       3
+        SAVE_STAT       -1
+        BASE_PERCENT    75
+        COST            2000
+        PREREQ          0
+END
+
+ID 164
+        NAME            Observatory~
+        SK_TYPE         5
+        SUCC_TYPE       0
+        SAVE_STAT       -1
+        BASE_PERCENT    0
+        COST            2000
+        PREREQ          0
+END
+
+ID 165
+        NAME            Pass Without Trace~
+        SK_TYPE         5
+        SUCC_TYPE       0
+        SAVE_STAT       -1
+        BASE_PERCENT    0
+        COST            2000
+        PREREQ          0
+END
+
+ID 166
+        NAME            Patron of the Lower Planes~
+        SK_TYPE         5
+        SUCC_TYPE       0
+        SAVE_STAT       -1
+        BASE_PERCENT    0
+        COST            2000
+        PREREQ          0
+END
+
+ID 167
+        NAME            Philtres~
+        SK_TYPE         5
+        SUCC_TYPE       3
+        SAVE_STAT       -1
+        BASE_PERCENT    35
+        COST            2000
+        PREREQ          23
+END
+
+ID 168
+        NAME            Potions~
+        SK_TYPE         5
+        SUCC_TYPE       3
+        SAVE_STAT       -1
+        BASE_PERCENT    35
+        COST            2000
+        PREREQ          158
+END
+
+ID 169
+        NAME            Power Animal~
+        SK_TYPE         5
+        SUCC_TYPE       0
+        SAVE_STAT       -1
+        BASE_PERCENT    0
+        COST            2000
+        PREREQ          0
+END
+
+ID 170
+        NAME            Projection of Will~
+        SK_TYPE         5
+        SUCC_TYPE       0
+        SAVE_STAT       -1
+        BASE_PERCENT    0
+        COST            2000
+        PREREQ          0
+END
+
+ID 171
+        NAME            Rod, Staves, and Wands~
+        SK_TYPE         5
+        SUCC_TYPE       3
+        SAVE_STAT       -1
+        BASE_PERCENT    35
+        COST            2000
+        PREREQ          172
+END
+
+ID 172
+        NAME            Runes~
+        SK_TYPE         5
+        SUCC_TYPE       3
+        SAVE_STAT       -1
+        BASE_PERCENT    95
+        COST            2000
+        PREREQ          154
+END
+
+ID 173
+        NAME            Scholarly~
+        SK_TYPE         5
+        SUCC_TYPE       0
+        SAVE_STAT       -1
+        BASE_PERCENT   0
+        COST            2000
+        PREREQ          0
+END
+
+ID 174
+        NAME            Scrolls~
+        SK_TYPE         5
+        SUCC_TYPE       3
+        SAVE_STAT       -1
+        BASE_PERCENT    45
+        COST            2000
+        PREREQ          154
+END
+
+ID 175
+        NAME            See Into Spirit Realm~
+        SK_TYPE         5
+        SUCC_TYPE       0
+        SAVE_STAT       -1
+        BASE_PERCENT    0
+        COST            2000
+        PREREQ          0
+END
+
+ID 176
+        NAME            Shape Change: Animal~
+        SK_TYPE         5
+        SUCC_TYPE       0
+        SAVE_STAT       -1
+        BASE_PERCENT    0
+        COST            2000
+        PREREQ          0
+END
+
+ID 177
+        NAME            Spell Casting: Astrology~
+        SK_TYPE         5
+        SUCC_TYPE       0
+        SAVE_STAT       -1
+        BASE_PERCENT    0
+        COST            2000
+        PREREQ          0
+END
+
+ID 178
+        NAME            Spell Casting: Black Magic~
+        SK_TYPE         5
+        SUCC_TYPE       0
+        SAVE_STAT       -1
+        BASE_PERCENT    0
+        COST            2000
+        PREREQ          0
+END
+
+ID 179
+        NAME            Spell Casting: Divine Magic~
+        SK_TYPE         5
+        SUCC_TYPE       0
+        SAVE_STAT       -1
+        BASE_PERCENT    0
+        COST            2000
+        PREREQ          0
+END
+
+ID 180
+        NAME            Spell Casting: Elemental Magic~
+        SK_TYPE         5
+        SUCC_TYPE       0
+        SAVE_STAT       -1
+        BASE_PERCENT    0
+        COST            2000
+        PREREQ          0
+END
+
+ID 181
+        NAME            Spell Casting: Enchantment~
+        SK_TYPE         5
+        SUCC_TYPE       0
+        SAVE_STAT       -1
+        BASE_PERCENT    0
+        COST            2000
+        PREREQ          0
+END
+
+ID 182
+        NAME            Spell Casting: High Magic~
+        SK_TYPE         5
+        SUCC_TYPE       0
+        SAVE_STAT       -1
+        BASE_PERCENT    0
+        COST            2000
+        PREREQ          0
+END
+
+ID 183
+        NAME            Spell Casting: Low Magic~
+        SK_TYPE         5
+        SUCC_TYPE       0
+        SAVE_STAT       -1
+        BASE_PERCENT    0
+        COST            2000
+        PREREQ          0
+END
+
+ID 184
+        NAME            Spell Casting: Mysticism~
+        SK_TYPE         5
+        SUCC_TYPE       0
+        SAVE_STAT       -1
+        BASE_PERCENT    0
+        COST            2000
+        PREREQ          0
+END
+
+ID 185
+        NAME            Spell Casting: Sorcery~
+        SK_TYPE         5
+        SUCC_TYPE       0
+        SAVE_STAT       -1
+        BASE_PERCENT    0
+        COST            2000
+        PREREQ          0
+END
+
+ID 186
+        NAME            Spiritual Binding~
+        SK_TYPE         5
+        SUCC_TYPE       0
+        SAVE_STAT       -1
+        BASE_PERCENT    0
+        COST            2000
+        PREREQ          0
+END
+
+ID 187
+        NAME            Toxic Powders~
+        SK_TYPE         5
+        SUCC_TYPE       3
+        SAVE_STAT       -1
+        BASE_PERCENT    30
+        COST            2000
+        PREREQ          136
+END
+
+ID 188
+        NAME            Turn Undead~
+        SK_TYPE         5
+        SUCC_TYPE       0
+        SAVE_STAT       -1
+        BASE_PERCENT    0
+        COST            2000
+        PREREQ          0
+END
+
+ID 189
+        NAME            Venoms and Poisons~
+        SK_TYPE         5
+        SUCC_TYPE       3
+        SAVE_STAT       -1
+        BASE_PERCENT    30
+        COST            2000
+        PREREQ          136
+END
+
+ID 190
+        NAME            Waylay~
+        SK_TYPE         5
+        SUCC_TYPE       2
+        SAVE_STAT       3
+        BASE_PERCENT    0
+        COST            2000
+        PREREQ          0
+END
+
+ID 191
+        NAME            Appraise Treasure~
+        SK_TYPE         6
+        SUCC_TYPE       0
+        SAVE_STAT       -1
+        BASE_PERCENT    0
+        COST            1000
+        PREREQ          0
+END
+
+ID 192
+        NAME            Catwalk~
+        SK_TYPE         6
+        SUCC_TYPE       0
+        SAVE_STAT       -1
+        BASE_PERCENT    0
+        COST            1000
+        PREREQ          0
+END
+
+ID 193
+        NAME            Con~
+        SK_TYPE         6
+        SUCC_TYPE       3
+        SAVE_STAT       -1
+        BASE_PERCENT    35
+        COST            1000
+        PREREQ          0
+END
+
+ID 194
+        NAME            Decipher~
+        SK_TYPE         6
+        SUCC_TYPE       3
+        SAVE_STAT       -1
+        BASE_PERCENT    20
+        COST            1000
+        PREREQ          0
+END
+
+ID 195
+        NAME            Evade Pursuit~
+        SK_TYPE         6
+        SUCC_TYPE       3
+        SAVE_STAT       -1
+        BASE_PERCENT    35
+        COST            1000
+        PREREQ          0
+END
+
+ID 196
+        NAME            Forgery~
+        SK_TYPE         6
+        SUCC_TYPE       3
+        SAVE_STAT       -1
+        BASE_PERCENT    45
+        COST            1000
+        PREREQ          0
+END
+
+ID 197
+        NAME            Hide in Shadows~
+        SK_TYPE         6
+        SUCC_TYPE       3
+        SAVE_STAT       -1
+        BASE_PERCENT    35
+        COST            1000
+        PREREQ          0
+END
+
+ID 198
+        NAME            Infiltrate~
+        SK_TYPE         6
+        SUCC_TYPE       3
+        SAVE_STAT       -1
+        BASE_PERCENT    85
+        COST            1000
+        PREREQ          0
+END
+
+ID 199
+        NAME            Interrogate~
+        SK_TYPE         6
+        SUCC_TYPE       2
+        SAVE_STAT       -1
+        BASE_PERCENT    6
+        COST            1000
+        PREREQ          0
+END
+
+ID 200
+        NAME            Lip Reading~
+        SK_TYPE         6
+        SUCC_TYPE       0
+        SAVE_STAT       -1
+        BASE_PERCENT    0
+        COST            1000
+        PREREQ          0
+END
+
+ID 201
+        NAME            Lock Picking~
+        SK_TYPE         6
+        SUCC_TYPE       3
+        SAVE_STAT       -1
+        BASE_PERCENT    25
+        COST            1000
+        PREREQ          0
+END
+
+ID 202
+        NAME            Pick Pockets~
+        SK_TYPE         6
+        SUCC_TYPE       3
+        SAVE_STAT       -1
+        BASE_PERCENT    35
+        COST            1000
+        PREREQ          0
+END
+
+ID 203
+        NAME            Scaling Walls~
+        SK_TYPE         6
+        SUCC_TYPE       3
+        SAVE_STAT       -1
+        BASE_PERCENT    90
+        COST            1000
+        PREREQ          0
+END
+
+ID 204
+        NAME            Stealth~
+        SK_TYPE         6
+        SUCC_TYPE       3
+        SAVE_STAT       -1
+        BASE_PERCENT    95
+        COST            1000
+        PREREQ          0
+END
+
+ID 205
+        NAME            Tailing~
+        SK_TYPE         6
+        SUCC_TYPE       3
+        SAVE_STAT       -1
+        BASE_PERCENT    35
+        COST            1000
+        PREREQ          0
+END
+
+ID 206
+        NAME            Thieve's Cant~
+        SK_TYPE         6
+        SUCC_TYPE       0
+        SAVE_STAT       -1
+        BASE_PERCENT    0
+        COST            1000
+        PREREQ          0
+END
+
+ID 207
+        NAME            Traps~
+        SK_TYPE         6
+        SUCC_TYPE       3
+        SAVE_STAT       -1
+        BASE_PERCENT    25
+        COST            1000
+        PREREQ          0
+END
+
+ID 208
+        NAME            Camouflage~
+        SK_TYPE         7
+        SUCC_TYPE       3
+        SAVE_STAT       -1
+        BASE_PERCENT    65
+        COST            1000
+        PREREQ          0
+END
+
+ID 209
+        NAME            Herb Lore~
+        SK_TYPE         7
+        SUCC_TYPE       2
+        SAVE_STAT       -1
+        BASE_PERCENT    4
+        COST            1000
+        PREREQ          0
+END
+
+ID 210
+        NAME            Hunting~
+        SK_TYPE         7
+        SUCC_TYPE       0
+        SAVE_STAT       -1
+        BASE_PERCENT    0
+        COST            1000
+        PREREQ          0
+END
+
+ID 211
+        NAME            Mountain Climbing~
+        SK_TYPE         7
+        SUCC_TYPE       3
+        SAVE_STAT       -1
+        BASE_PERCENT    90
+        COST            500
+        PREREQ          0
+END
+
+ID 212
+        NAME            Read Tracks~
+        SK_TYPE         7
+        SUCC_TYPE       3
+        SAVE_STAT       -1
+        BASE_PERCENT    50
+        COST            1000
+        PREREQ          0
+END
+
+ID 213
+        NAME            Scouting~
+        SK_TYPE         7
+        SUCC_TYPE       3
+        SAVE_STAT       -1
+        BASE_PERCENT    90
+        COST            1000
+        PREREQ          208
+END
+
+ID 214
+        NAME            Snares~
+        SK_TYPE         7
+        SUCC_TYPE       3
+        SAVE_STAT       -1
+        BASE_PERCENT    55
+        COST            1000
+        PREREQ          0
+END
+
+ID 215
+        NAME            Stalking~
+        SK_TYPE         7
+        SUCC_TYPE       3
+        SAVE_STAT       -1
+        BASE_PERCENT    55
+        COST            1000
+        PREREQ          0
+END
+
+ID 216
+        NAME            Survival~
+        SK_TYPE         7
+        SUCC_TYPE       3
+        SAVE_STAT       -1
+        BASE_PERCENT    55
+        COST            1000
+        PREREQ          0
+END
+
+ID 217
+        NAME            Tracking~
+        SK_TYPE         7
+        SUCC_TYPE       0
+        SAVE_STAT       -1
+        BASE_PERCENT    95
+        COST            1000
+        PREREQ          212
+END
+
+EOF

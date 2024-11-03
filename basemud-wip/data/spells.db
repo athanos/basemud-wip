@@ -1,0 +1,848 @@
+ID 1
+        NAME                    Astral Bolt~
+        DURATION                0
+        RANGE                   10
+        SAVE_STAT               1
+        SAVE_TYPE               1
+        SPELL_TYPE              1
+        TIER                    1
+        CATEGORY                1
+END
+
+ID 2
+        NAME                    Astromancy~
+        DURATION                0
+        RANGE                   -1
+        SAVE_STAT               -1
+        SAVE_TYPE               -1
+        SPELL_TYPE              0
+        TIER                    1
+        CATEGORY                1
+END
+
+ID 3
+        NAME                    Detect Magic~
+        DURATION                1
+        RANGE                   10
+        SAVE_STAT               -1
+        SAVE_TYPE               -1
+        SPELL_TYPE              0
+        TIER                    1
+        CATEGORY                0
+END
+
+ID 4
+        NAME                    Fortune~
+        DURATION                1440
+        RANGE                   -3
+        SAVE_STAT               -1
+        SAVE_TYPE               -1
+        SPELL_TYPE              0
+        TIER                    1
+        CATEGORY                1
+END
+
+ID 5
+        NAME                    Initiative of Fierah~
+        DURATION                10
+        RANGE                   -1
+        SAVE_STAT               -1
+        SAVE_TYPE               -1
+        SPELL_TYPE              0
+        TIER                    1
+        CATEGORY                1
+END
+
+ID 6
+        NAME                    Lesser Incantaion of Lunaris~
+        DURATION                60
+        RANGE                   -2
+        SAVE_STAT               -1
+        SAVE_TYPE               -1
+        SPELL_TYPE              0
+        TIER                    1
+        CATEGORY                1
+END
+
+ID 7
+        NAME                    Lesser Incantation of Solara~
+        DURATION                60
+        RANGE                   -2
+        SAVE_STAT               -1
+        SAVE_TYPE               -1
+        SPELL_TYPE              0
+        TIER                    1
+        CATEGORY                1
+END
+
+ID 8
+        NAME                    Locate Object~
+        DURATION                60
+        RANGE                   -1
+        SAVE_STAT               -1
+        SAVE_TYPE               -1
+        SPELL_TYPE              0
+        TIER                    1
+        CATEGORY                1
+END
+
+ID 9        
+        NAME                    Arcane Bolt~
+        DURATION                0
+        RANGE                   100
+        SAVE_STAT               1
+        SAVE_TYPE               1
+        SPELL_TYPE              1
+        TIER                    1
+        CATEGORY                2
+END
+
+ID 10
+        NAME                    Circle of Darkness~
+        DURATION                10
+        RANGE                   100
+        SAVE_STAT               -1
+        SAVE_TYPE               -1
+        SPELL_TYPE              0
+        TIER                    1
+        CATEGORY                2
+END
+
+ID 11
+        NAME                    Curse~
+        DURATION                -1
+        RANGE                   -4
+        SAVE_STAT               6
+        SAVE_TYPE               0
+        SPELL_TYPE              0
+        TIER                    1
+        CATEGORY                2
+END
+
+ID 12
+        NAME                    Dark Omen~
+        DURATION                0
+        RANGE                   -1
+        SAVE_STAT               -1
+        SAVE_TYPE               -1
+        SPELL_TYPE              0
+        TIER                    1
+        CATEGORY                2
+END
+
+ID 13
+        NAME                    Disguise~
+        DURATION                60
+        RANGE                   -1
+        SAVE_STAT               -1
+        SAVE_TYPE               -1
+        SPELL_TYPE              0
+        TIER                    1
+        CATEGORY                2
+END
+
+ID 14
+        NAME                    Evoke Spirits~
+        DURATION                0
+        RANGE                   -1
+        SAVE_STAT               -1
+        SAVE_TYPE               -1
+        SPELL_TYPE              0
+        TIER                    1
+        CATEGORY                2
+END
+
+ID 15
+        NAME                    Mist~
+        DURATION                10
+        RANGE                   100
+        SAVE_STAT               -1
+        SAVE_TYPE               -1
+        SPELL_TYPE              1
+        TIER                    1
+        CATEGORY                2
+END
+
+ID 16
+        NAME                    Protection from Good~
+        DURATION                1
+        RANGE                   -1
+        SAVE_STAT               -1
+        SAVE_TYPE               -1
+        SPELL_TYPE              0
+        TIER                    1
+        CATEGORY                2
+END
+
+ID 17
+        NAME                    Summon Familiar~
+        DURATION                0
+        RANGE                   -1
+        SAVE_STAT               -1
+        SAVE_TYPE               -1
+        SPELL_TYPE              0
+        TIER                    1
+        CATEGORY                2
+END
+
+ID 18
+        NAME                    Armor of Faith~
+        DURATION                10
+        RANGE                   -2
+        SAVE_STAT               -1
+        SAVE_TYPE               -1
+        SPELL_TYPE              0
+        TIER                    1
+        CATEGORY                3
+END
+
+ID 19
+        NAME                    Blessing~
+        DURATION                10
+        RANGE                   -2
+        SAVE_STAT               -1
+        SAVE_TYPE               -1
+        SPELL_TYPE              0
+        TIER                    1
+        CATEGORY                3
+END
+
+ID 20
+        NAME                    Charisma~
+        DURATION                10
+        RANGE                   -3
+        SAVE_STAT               -1
+        SAVE_TYPE               -1
+        SPELL_TYPE              0
+        TIER                    1
+        CATEGORY                3
+END
+
+ID 21
+        NAME                    Circle of Light~
+        DURATION                10
+        RANGE                   100
+        SAVE_STAT               -1
+        SAVE_TYPE               -1
+        SPELL_TYPE              0
+        TIER                    1
+        CATEGORY                3
+END
+
+ID 22
+        NAME                    Divine Light~
+        DURATION                0
+        RANGE                   100
+        SAVE_STAT               1
+        SAVE_TYPE               1
+        SPELL_TYPE              1
+        TIER                    1
+        CATEGORY                3
+END
+
+ID 23
+        NAME                    Faith Healing~
+        DURATION                0
+        RANGE                   -3
+        SAVE_STAT               -1
+        SAVE_TYPE               -1
+        SPELL_TYPE              1
+        TIER                    1
+        CATEGORY                3
+END
+
+ID 24
+        NAME                    Omen~
+        DURATION                0
+        RANGE                   -1
+        SAVE_STAT               -1
+        SAVE_TYPE               -1
+        SPELL_TYPE              0
+        TIER                    1
+        CATEGORY                3
+END
+
+ID 25
+        NAME                    Protection from Evil~
+        DURATION                1
+        RANGE                   -1
+        SAVE_STAT               -1
+        SAVE_TYPE               -1
+        SPELL_TYPE              0
+        TIER                    1
+        CATEGORY                3
+END
+
+ID 26
+        NAME                    Purify Food/Drink~
+        DURATION                0
+        RANGE                   10
+        SAVE_STAT               -1
+        SAVE_TYPE               -1
+        SPELL_TYPE              1
+        TIER                    1
+        CATEGORY                3
+END
+
+ID 27
+        NAME                    Animal Mimicry~
+        DURATION                1
+        RANGE                   -1
+        SAVE_STAT               -1
+        SAVE_TYPE               -1
+        SPELL_TYPE              0
+        TIER                    1
+        CATEGORY                4
+END
+
+ID 28
+        NAME                    Eldritch Fire~
+        DURATION                0
+        RANGE                   100
+        SAVE_STAT               1
+        SAVE_TYPE               1
+        SPELL_TYPE              1
+        TIER                    1
+        CATEGORY                4
+END
+
+ID 29
+        NAME                    Fog~
+        DURATION                10
+        RANGE                   1000
+        SAVE_STAT               -1
+        SAVE_TYPE               -1
+        SPELL_TYPE              1
+        TIER                    1
+        CATEGORY                4
+END
+
+ID 30
+        NAME                    Locate Animal~
+        DURATION                60
+        RANGE                   5280
+        SAVE_STAT               -1
+        SAVE_TYPE               -1
+        SPELL_TYPE              0
+        TIER                    1
+        CATEGORY                4
+END
+
+ID 31
+        NAME                    Minor Healing~
+        DURATION                0
+        RANGE                   -3
+        SAVE_STAT               -1
+        SAVE_TYPE               -1
+        SPELL_TYPE              1
+        TIER                    1
+        CATEGORY                4
+END
+
+ID 32
+        NAME                    Night Vision~
+        DURATION                60
+        RANGE                   -3
+        SAVE_STAT               -1
+        SAVE_TYPE               -1
+        SPELL_TYPE              0
+        TIER                    1
+        CATEGORY                4
+END
+
+ID 33
+        NAME                    Predict Weather~
+        DURATION                0
+        RANGE                   -1
+        SAVE_STAT               -1
+        SAVE_TYPE               -1
+        SPELL_TYPE              1
+        TIER                    1
+        CATEGORY                4
+END
+
+ID 34
+        NAME                    Speak with Animals~
+        DURATION                10
+        RANGE                   -1
+        SAVE_STAT               -1
+        SAVE_TYPE               -1
+        SPELL_TYPE              1
+        TIER                    1
+        CATEGORY                4
+END
+
+ID 35
+        NAME                    Charm~
+        DURATION                1440
+        RANGE                   100
+        SAVE_STAT               6
+        SAVE_TYPE               0
+        SPELL_TYPE              0
+        TIER                    1
+        CATEGORY                5
+END
+
+ID 36
+        NAME                    Circle of Light/Darkness~
+        DURATION                10
+        RANGE                   100
+        SAVE_STAT               -1
+        SAVE_TYPE               -1
+        SPELL_TYPE              0
+        TIER                    1
+        CATEGORY                5
+END
+
+ID 37
+        NAME                    Conjure Missiles~
+        DURATION                0
+        RANGE                   100
+        SAVE_STAT               1
+        SAVE_TYPE               1
+        SPELL_TYPE              1
+        TIER                    1
+        CATEGORY                5
+END
+
+ID 38
+        NAME                    Conjure Smoke~
+        DURATION                10
+        RANGE                   100
+        SAVE_STAT               -1
+        SAVE_TYPE               -1
+        SPELL_TYPE              1
+        TIER                    1
+        CATEGORY                5
+END
+
+ID 39
+        NAME                    Detect Illusion~
+        DURATION                10
+        RANGE                   100
+        SAVE_STAT               -1
+        SAVE_TYPE               -1
+        SPELL_TYPE              0
+        TIER                    1
+        CATEGORY                5
+END
+
+ID 40
+        NAME                    False Dweomer~
+        DURATION                1440
+        RANGE                   10
+        SAVE_STAT               -1
+        SAVE_TYPE               -1
+        SPELL_TYPE              0
+        TIER                    1
+        CATEGORY                5
+END
+
+ID 41
+        NAME                    Identify~
+        DURATION                0
+        RANGE                   -1
+        SAVE_STAT               -1
+        SAVE_TYPE               -1
+        SPELL_TYPE              0
+        TIER                    1
+        CATEGORY                5
+END
+
+ID 42
+        NAME                    Levitation~
+        DURATION                10
+        RANGE                   -3
+        SAVE_STAT               -1
+        SAVE_TYPE               -1
+        SPELL_TYPE              1
+        TIER                    1
+        CATEGORY                5
+END
+
+ID 43
+        NAME                    Preserve~
+        DURATION                -1
+        RANGE                   10
+        SAVE_STAT               -1
+        SAVE_TYPE               -1
+        SPELL_TYPE              0
+        TIER                    1
+        CATEGORY                5
+END
+
+ID 44
+        NAME                    Speak Langauges~
+        DURATION                60
+        RANGE                   -3
+        SAVE_STAT               -1
+        SAVE_TYPE               -1
+        SPELL_TYPE              0
+        TIER                    1
+        CATEGORY                5
+END
+
+ID 45
+        NAME                    Tricks~
+        DURATION                1
+        RANGE                   -1
+        SAVE_STAT               4
+        SAVE_TYPE               0
+        SPELL_TYPE              0
+        TIER                    1
+        CATEGORY                5
+END
+
+ID 46
+        NAME                    Thaumaturgic Enchantment~
+        DURATION                0
+        RANGE                   -1
+        SAVE_STAT               -1
+        SAVE_TYPE               -1
+        SPELL_TYPE              0
+        TIER                    1
+        CATEGORY                5
+END
+
+ID 47
+        NAME                    Command: Open~
+        DURATION                0
+        RANGE                   100
+        SAVE_STAT               -1
+        SAVE_TYPE               -1
+        SPELL_TYPE              0
+        TIER                    1
+        CATEGORY                6
+END
+
+ID 48
+        NAME                    Detect Influence~
+        DURATION                0
+        RANGE                   100
+        SAVE_STAT               -1
+        SAVE_TYPE               -1
+        SPELL_TYPE              0
+        TIER                    1
+        CATEGORY                6
+END
+
+ID 49
+        NAME                    Evocation I~
+        DURATION                0
+        RANGE                   -1
+        SAVE_STAT               -1
+        SAVE_TYPE               -1
+        SPELL_TYPE              0
+        TIER                    1
+        CATEGORY                6
+END
+
+ID 50
+        NAME                    Hold Portal~
+        DURATION                1
+        RANGE                   100
+        SAVE_STAT               -1
+        SAVE_TYPE               -1
+        SPELL_TYPE              1
+        TIER                    1
+        CATEGORY                6
+END
+
+ID 51
+        NAME                    Sigil~
+        DURATION                -1
+        RANGE                   -2
+        SAVE_STAT               -1
+        SAVE_TYPE               -1
+        SPELL_TYPE              1
+        TIER                    1
+        CATEGORY                6
+END
+
+ID 52
+        NAME                    Spellbind~
+        DURATION                1
+        RANGE                   100
+        SAVE_STAT               6
+        SAVE_TYPE               0
+        SPELL_TYPE              1
+        TIER                    1
+        CATEGORY                6
+END
+
+ID 53
+        NAME                    Spell of Constraint~
+        DURATION                0
+        RANGE                   100
+        SAVE_STAT               6
+        SAVE_TYPE               0
+        SPELL_TYPE              0
+        TIER                    1
+        CATEGORY                6
+END
+
+ID 54
+        NAME                    Word of Power~
+        DURATION                0
+        RANGE                   100
+        SAVE_STAT               1
+        SAVE_TYPE               1
+        SPELL_TYPE              1
+        TIER                    1
+        CATEGORY                6
+END
+
+ID 55
+        NAME                    Chant~
+        DURATION                0
+        RANGE                   100
+        SAVE_STAT               -1
+        SAVE_TYPE               -1
+        SPELL_TYPE              1
+        TIER                    1
+        CATEGORY                7
+END
+
+ID 56
+        NAME                    Commune with Nature Spirits~
+        DURATION                5
+        RANGE                   -1
+        SAVE_STAT               -1
+        SAVE_TYPE               -1
+        SPELL_TYPE              1
+        TIER                    1
+        CATEGORY                7
+END
+
+ID 57
+        NAME                    Foretell~
+        DURATION                0
+        RANGE                   -1
+        SAVE_STAT               -1
+        SAVE_TYPE               -1
+        SPELL_TYPE              0
+        TIER                    1
+        CATEGORY                7
+END
+
+ID 58
+        NAME                    Image Magic I~
+        DURATION                0
+        RANGE                   -4
+        SAVE_STAT               6
+        SAVE_TYPE               0
+        SPELL_TYPE              0
+        TIER                    1
+        CATEGORY                7
+END
+
+ID 59
+        NAME                    Locate Power Animal~
+        DURATION                0
+        RANGE                   -1
+        SAVE_STAT               -1
+        SAVE_TYPE               -1
+        SPELL_TYPE              0
+        TIER                    1
+        CATEGORY                7
+END
+
+ID 60
+        NAME                    Magic Darts~
+        DURATION                0
+        RANGE                   100
+        SAVE_STAT               -1
+        SAVE_TYPE               -1
+        SPELL_TYPE              1
+        TIER                    1
+        CATEGORY                7
+END
+
+ID 61
+        NAME                    Seeing~
+        DURATION                0
+        RANGE                   100
+        SAVE_STAT               -1
+        SAVE_TYPE               -1
+        SPELL_TYPE              0
+        TIER                    1
+        CATEGORY                7
+END
+
+ID 62
+        NAME                    Spirit Empathy~
+        DURATION                10
+        RANGE                   100
+        SAVE_STAT               -1
+        SAVE_TYPE               -1
+        SPELL_TYPE              0
+        TIER                    1
+        CATEGORY                7
+END
+
+ID 63
+        NAME                    Aura Reading~
+        DURATION                0
+        RANGE                   100
+        SAVE_STAT               -1
+        SAVE_TYPE               -1
+        SPELL_TYPE              0
+        TIER                    1
+        CATEGORY                8
+END
+
+ID 64
+        NAME                    Clairvoyance~
+        DURATION                1
+        RANGE                   -4
+        SAVE_STAT               -1
+        SAVE_TYPE               -1
+        SPELL_TYPE              0
+        TIER                    1
+        CATEGORY                8
+END
+
+ID 65
+        NAME                    Empathy~
+        DURATION                1
+        RANGE                   20
+        SAVE_STAT               -1
+        SAVE_TYPE               -1
+        SPELL_TYPE              0
+        TIER                    1
+        CATEGORY                8
+END
+
+ID 66
+        NAME                    Heightened Perception~
+        DURATION                1
+        RANGE                   100
+        SAVE_STAT               -1
+        SAVE_TYPE               -1
+        SPELL_TYPE              0
+        TIER                    1
+        CATEGORY                8
+END
+
+ID 67
+        NAME                    Inner Vision~
+        DURATION                10
+        RANGE                   -1
+        SAVE_STAT               -1
+        SAVE_TYPE               -1
+        SPELL_TYPE              0
+        TIER                    1
+        CATEGORY                8
+END
+
+ID 68
+        NAME                    Mystic Bolt~
+        DURATION                0
+        RANGE                   100
+        SAVE_STAT               1
+        SAVE_TYPE               1
+        SPELL_TYPE              1
+        TIER                    1
+        CATEGORY                8
+END
+
+ID 69
+        NAME                    Object Reading~
+        DURATION                0
+        RANGE                   -2
+        SAVE_STAT               -1
+        SAVE_TYPE               -1
+        SPELL_TYPE              0
+        TIER                    1
+        CATEGORY                8
+END
+
+ID 70
+        NAME                    Suggestion~
+        DURATION                0
+        RANGE                   10
+        SAVE_STAT               4
+        SAVE_TYPE               0
+        SPELL_TYPE              0
+        TIER                    1
+        CATEGORY                8
+END
+
+ID 71
+        NAME                    Force Shield~
+        DURATION                -1
+        RANGE                   100
+        SAVE_STAT               -1
+        SAVE_TYPE               -1
+        SPELL_TYPE              1
+        TIER                    1
+        CATEGORY                9
+END
+
+ID 72
+        NAME                    Hypnosis~
+        DURATION                1440
+        RANGE                   10
+        SAVE_STAT               6
+        SAVE_TYPE               0
+        SPELL_TYPE              0
+        TIER                    1
+        CATEGORY                9
+END
+
+ID 73
+        NAME                    Infra-vision~
+        DURATION                10
+        RANGE                   100
+        SAVE_STAT               -1
+        SAVE_TYPE               -1
+        SPELL_TYPE              0
+        TIER                    1
+        CATEGORY                9
+END
+
+ID 74
+        NAME                    Power Bolt~
+        DURATION                0
+        RANGE                   100
+        SAVE_STAT               1
+        SAVE_TYPE               1
+        SPELL_TYPE              1
+        TIER                    1
+        CATEGORY                9
+END
+
+ID 75
+        NAME                    Slow Gravity~
+        DURATION                0
+        RANGE                   100
+        SAVE_STAT               -1
+        SAVE_TYPE               -1
+        SPELL_TYPE              1
+        TIER                    1
+        CATEGORY                9
+END
+
+ID 76
+        NAME                    Variable Light/Darkness~
+        DURATION                10
+        RANGE                   100
+        SAVE_STAT               -1
+        SAVE_TYPE               -1
+        SPELL_TYPE              0
+        TIER                    1
+        CATEGORY                9
+END
+
+ID 77
+        NAME                    Vertigo~
+        DURATION                0
+        RANGE                   100
+        SAVE_STAT               3
+        SAVE_TYPE               0
+        SPELL_TYPE              0
+        TIER                    1
+        CATEGORY                9
+END
+
+EOF

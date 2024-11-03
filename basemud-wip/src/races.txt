@@ -1,0 +1,31 @@
+struct fields
+	Alignment
+	Attributes
+	HP
+	SDC
+	PPE
+	OCC
+	Height
+	Weight
+	Life Span
+	Special/Natural Abilities
+	Magic
+	Psionics
+	Skills
+	
+
+Elf
+Dwarf
+Gnome
+Human
+Kobold
+Troglodyte
+Goblin
+Hob-Goblin
+Orc
+Ogre
+Troll
+Changeling
+Wolfen
+Coyle
+
